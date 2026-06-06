@@ -43,3 +43,6 @@ function test2() {
   var x = 20;
 }
 test2();
+console.log('--------------------###--------------------');
+console.log(true + 1);
+console.log(false + 2);
